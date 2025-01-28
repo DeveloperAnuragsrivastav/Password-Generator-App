@@ -16,7 +16,7 @@ A simple password generator built with **HTML**, **CSS**, and **JavaScript**. Th
 ## 🖼️ Preview
 
 ![Screenshot (130)](https://github.com/user-attachments/assets/1acbb191-92a3-41bf-8edc-887a865200b2)
-![Screenshot (128)](https://github.com/user-attachments/assets/c344a74b-9875-4aa8-a294-037f754ef648)
+
 
 ---
 
