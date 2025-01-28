@@ -13,6 +13,17 @@ A simple password generator built with **HTML**, **CSS**, and **JavaScript**. Th
 - **Copy Functionality**: Quickly copy the generated password to the clipboard with a single click.
 - **Responsive Design**: Clean and user-friendly interface.
 
+
+## 🖼️ live Preview
+
+https://safepasswordtool.freewebhostmost.com
+
+---
+
+
+
+
+
 ## 🖼️ Preview
 
 ![Screenshot (130)](https://github.com/user-attachments/assets/1acbb191-92a3-41bf-8edc-887a865200b2)
